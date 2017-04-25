@@ -1,7 +1,7 @@
 # XamarinJSBridge
 A bridge to make interaction between Xamarin.iOS native and WebView's JSContext
 
-At the first of all, you must do some modifications for your iOS project:
+At the first of all, you must do a most important modification for your iOS project:
 
 Step1: Doulbe click the project item(or right click it and select "options") to open the project's setting menu.
 ![](https://github.com/lwnwowone/XamarinJSBridge/raw/master/Important_Step1.png)
